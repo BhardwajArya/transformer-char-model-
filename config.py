@@ -7,5 +7,5 @@ device = 'cuda'
 eval_iters = 200
 n_embd = 64
 n_head = 4
-n_layer = 4
+n_layer = 4  
 dropout = 0.0
